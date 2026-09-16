@@ -1,0 +1,27 @@
+# Datos procesados: se regeneran ejecutando los notebooks en orden (01 -> 02 -> 04).
+# El original (data/raw/) sí se incluye: es necesario para reproducir el proyecto.
+data/processed/
+
+# Copias de seguridad manuales de los notebooks
+notebooks/_backup/
+
+# Contexto privado de trabajo con Claude Code
+CLAUDE.md
+.claude/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Sistema operativo y editor
+.DS_Store
+Thumbs.db
+.vscode/
