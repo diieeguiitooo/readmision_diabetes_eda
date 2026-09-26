@@ -25,3 +25,6 @@ env/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Notas personales (tutorías, reuniones): no forman parte del entregable
+notas_tutoria.md
