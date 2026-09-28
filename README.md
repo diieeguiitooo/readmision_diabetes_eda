@@ -2,9 +2,18 @@
 
 ![Python 3.13](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![pandas 2.3.3](https://img.shields.io/badge/pandas-2.3.3-150458?logo=pandas&logoColor=white)
+![NumPy 2.3.5](https://img.shields.io/badge/NumPy-2.3.5-013243?logo=numpy&logoColor=white)
+![Matplotlib 3.10.6](https://img.shields.io/badge/Matplotlib-3.10.6-11557C)
+![seaborn 0.13.2](https://img.shields.io/badge/seaborn-0.13.2-4C72B0)
 ![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-F37626?logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-conda-44A833?logo=anaconda&logoColor=white)
 ![Datos: UCI, CC BY 4.0](https://img.shields.io/badge/datos-UCI%20%7C%20CC%20BY%204.0-2a78d6)
 ![Licencia MIT](https://img.shields.io/badge/licencia-MIT-lightgrey)
+
+**Recursos:** dataset *Diabetes 130-US hospitals for years 1999-2008*
+([UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008))
+con su tabla de códigos `IDS_mapping.csv` · clasificación de diagnósticos por capítulos CIE-9 según Strack et al.
+(2014).
 
 Limpieza, análisis exploratorio y preparación de **101.766 ingresos hospitalarios de pacientes
 diabéticos** (130 hospitales de EE. UU., 1999-2008) para predecir quién **reingresa en menos de 30
