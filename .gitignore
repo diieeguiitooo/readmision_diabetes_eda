@@ -1,6 +1,9 @@
-# Datos procesados: se regeneran ejecutando los notebooks en orden (01 -> 02 -> 04).
-# El original (data/raw/) sí se incluye: es necesario para reproducir el proyecto.
-data/processed/
+# Datos procesados intermedios: se regeneran ejecutando los notebooks en orden (01 -> 02 -> 04).
+# Sí se incluyen train.csv y test.csv: son la salida final del notebook 04 y la entrada del
+# proyecto de modelado. El original (data/raw/) también se incluye: es necesario para reproducirlo.
+data/processed/*
+!data/processed/train.csv
+!data/processed/test.csv
 
 # Copias de seguridad manuales de los notebooks
 notebooks/_backup/
